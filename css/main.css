@@ -10,6 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -31,6 +32,19 @@ html {
 body {
   margin: 0;
 }
+
 p {
   margin: 0;
+}
+
+.comfortaa {
+  font-family: "Comfortaa", cursive;
+}
+
+.rammetto {
+  font-family: "Rammetto One", cursive;
+}
+
+.gravitas {
+  font-family: "Gravitas One", cursive;
 }
